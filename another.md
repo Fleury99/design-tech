@@ -1,7 +1,5 @@
  ### I Built an Award-winning Personal Website in 10 minutes using Google’s Antigravity (0 coding)
 
-![video](https://youtu.be/T80jH7JeiS8?si=2M6FkM5SlDsAmBoI)
-
  https://youtu.be/T80jH7JeiS8?si=2M6FkM5SlDsAmBoI
 
 #GoogleAntigravity #WebDesign #Nextjs
